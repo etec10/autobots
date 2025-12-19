@@ -1,5 +1,5 @@
 var script = document.createElement('script');
 script.type = 'module';
 script.crossOrigin = 'anonymous'; // or 'use-credentials' if needed
-script.src = 'https://cdn.drv.pro/assets/index-D8tSx7ul.js';
+script.src = 'https://cdn.drv.pro/trader/assets/index-D2wVChUn.js';
 document.body.appendChild(script);
